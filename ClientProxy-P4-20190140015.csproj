@@ -58,14 +58,14 @@
     <None Include="Connected Services\ServiceReference1\ClientProxy_P4_20190140015.ServiceReference1.Koordinat.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
-    <None Include="Connected Services\ServiceReference1\FirstWCFService_015.xsd">
-      <SubType>Designer</SubType>
-    </None>
     <None Include="Connected Services\ServiceReference1\service.wsdl" />
     <None Include="Connected Services\ServiceReference1\service.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="Connected Services\ServiceReference1\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference1\ServiceMtk_P1_20190140015.xsd">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
